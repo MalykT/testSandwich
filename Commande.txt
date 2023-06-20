@@ -1,5 +1,11 @@
 <<<<<<< HEAD
 Commande des sandwichs : 
+<<<<<<< HEAD
+=======
+
+1 sandwich pour René
+ un 2e
+>>>>>>> Rene
 =======
 Commande des sandwichs Bagatelle : 
 >>>>>>> main
@@ -8,3 +14,4 @@ Commande des sandwichs Bagatelle :
  un 2e
 
 1 sandwich pour Leon
+>>>>>>> main
