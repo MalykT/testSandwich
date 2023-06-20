@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Commande des sandwichs : 
+=======
+Commande des sandwichs Bagatelle : 
+>>>>>>> main
 
 1 sandwich pour René
  un 2e
