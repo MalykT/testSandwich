@@ -1,4 +1,13 @@
+<<<<<<< HEAD
 Commande des sandwichs : 
 
 1 sandwich pour René
  un 2e
+=======
+Commande des sandwichs Bagatelle : 
+
+1 sandwich pour René
+ un 2e
+
+1 sandwich pour Leon
+>>>>>>> main
